@@ -1,0 +1,11 @@
+body
+{
+    background-image: url("bg.gif");
+}
+
+.element
+{
+    margin: 1%;
+    padding: 3%;
+    background-color: #A31A24;
+}
